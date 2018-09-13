@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bouncing_balls/.vs/bouncing_balls/v15
+*.pyc
+*.user
+*.suo
+*.npy
+/tensorboard_logs
+/.vs
+/logs
